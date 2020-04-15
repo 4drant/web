@@ -4,7 +4,7 @@ social_link: ''
 social_username: broccolini
 github_repo: athena
 github_username: broccolini
-theme_color: light
+theme_color: ''
 remote_theme: heiswayi/the-plain
 baseurl: /web
 defaults:
