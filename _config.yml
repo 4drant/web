@@ -5,7 +5,7 @@ social_username: broccolini
 github_repo: athena
 github_username: broccolini
 theme_color: light
-remote_theme: internet-de-france/minima
+remote_theme: internet-de-france/athena
 baseurl: /web
 defaults:
   - scope:
