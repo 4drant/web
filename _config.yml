@@ -2,10 +2,10 @@ title: Athena Jekyll Theme
 description: A simple and elegant theme for Jekyll and GitHub Pages.
 social_link: twitter
 social_username: broccolini
-github_repo: Athena
-github_username: broccolini
+github_repo: lanyon
+github_username: poole
 theme_color: light
-remote_theme: internet-de-france/athena
+remote_theme: poole/lanyon
 baseurl: /web
 defaults:
   - scope:
