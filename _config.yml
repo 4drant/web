@@ -5,15 +5,15 @@ social_username: broccolini
 github_repo: athena
 github_username: broccolini
 theme_color: light
-remote_theme: heiswayi/the-plain # internet-de-france/athena
+remote_theme: internet-de-france/athena  #heiswayi/the-plain
 baseurl: /web
 
 # Site Settings
-url:                https://4drant.github.io # main url
-baseurl:            /web
-permalink:          /:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to 'false' to disable
+# url:                https://4drant.github.io # main url
+# baseurl:            /web
+# permalink:          /:title # Post permalink
+# timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
 
 defaults:
