@@ -4,8 +4,8 @@ social_link: ''
 social_username: broccolini
 github_repo: athena
 github_username: broccolini
-theme_color: ''
-remote_theme: heiswayi/the-plain
+theme_color: light
+remote_theme: internet-de-france/athena
 baseurl: /web
 defaults:
   - scope:
